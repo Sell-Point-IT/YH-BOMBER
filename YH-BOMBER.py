@@ -91,7 +91,7 @@ def print_banner():
     console.print(
         Align.center(
             Panel.fit(
-                "[bold cyan] EH BOMBER 👿",
+                "[bold cyan] YH BOMBER 👿",
                 border_style="bold green"
             )
         )
